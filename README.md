@@ -7,4 +7,6 @@ Features:
 - Clean and intuitive user interface built with Jetpack Compose.
 - MVVM architecture for maintainable and testable code.
 
-<img src="https://github.com/SiD19s/RandomQuoteGenerator/assets/77432907/911cc548-de00-45b4-98f6-cf133cdc44f5" width=30% height=30%>
+<img src="https://github.com/SiD19s/RandomQuoteGenerator/assets/77432907/911cc548-de00-45b4-98f6-cf133cdc44f5" width=30% height=30%> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/SiD19s/RandomQuoteGenerator/assets/77432907/868d4063-cd4c-400f-8202-f602c4b5d1ad" width=30% height=27%>
